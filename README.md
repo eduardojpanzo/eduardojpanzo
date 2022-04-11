@@ -2,7 +2,7 @@
 
 ##
 - 💻 Sou estudante de programação web
-- 🎯 Actualmente estudando front-end 
+- 🎯 Actualmente estudando ReactJS 
 - 📚 Sou estudante de engenharia informática
 
 <div style="display: flex">
