@@ -1,9 +1,9 @@
 ### Olá! Eu sou João Eduardo Panzo 👋🏿
 
 ##
-- 💻 Sou estudante de programação web
-- 🎯 Actualmente estudando ReactJS 
-- 📚 Sou estudante de engenharia informática
+- 💻 Atuando no front-edn da programação web
+- 🎯 ReactJS, NextJs, Styled-components 
+- 📚 Estudante de engenharia informática
 
 <div>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=EduardoPanzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
