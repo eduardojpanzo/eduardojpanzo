@@ -1,6 +1,6 @@
 # João Eduardo Panzo
 
-💻 Software engineer | ReactJs | React Native | NodeJs | SpringBoot| Typescript | Algorithms | Git
+💻 Software engineer
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-0047AB?logo=nextdotjs&logoColor=white)](https://eduardopanzo-portfolio.vercel.app) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3oeduardopanzo/) 
