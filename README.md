@@ -1,6 +1,6 @@
 # João Eduardo Panzo
 
-💻 Programmer
+💻 Software engineer | ReactJs | React Native | NodeJs | SpringBoot| Typescript | Algorithms | Git
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-0047AB?logo=nextdotjs&logoColor=white)](https://eduardopanzo-portfolio.vercel.app) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3oeduardopanzo/) 
@@ -10,17 +10,19 @@
 
 Feel free to check my repositories and to reach me out through the links above.
 
-Experienced in JavaScript, TypeScript, React, React Native, and other related tools.
+Experienced in JavaScript, TypeScript, React, React Native, Nodejs with express and other related tools.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-5cad47?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
