@@ -2,8 +2,8 @@
 
 💻 Software engineer
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0047AB?logo=nextdotjs&logoColor=white)](https://eduardopanzo-portfolio.vercel.app) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3oeduardopanzo/) 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0047AB?logo=nextdotjs&logoColor=white)](https://eduardojpanzo.vercel.app) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardojpanzo/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/eduardojpanzo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:john404edwards@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/joao.eduardo.52012548/)
